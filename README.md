@@ -1,7 +1,8 @@
-# 🌐 My Website  
+# 🌐 My-Website  
 
 A simple and stylish **portfolio** 💼 to showcase my work, skills, and resume.  
 Built with **HTML**, **CSS**, and **JavaScript** 
+
 
 <img width="1241" height="970" alt="image" src="https://github.com/user-attachments/assets/deb2dba0-50fa-4f82-94f7-52c7b8a2b70d" />
 
