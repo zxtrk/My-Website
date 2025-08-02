@@ -21,13 +21,13 @@ Additionally, inspiration and code snippets were gathered from **various online 
 
 The goal was to combine **human creativity** with **AI efficiency** to produce a clean, professional, and functional personal website.
 
----
+
 
 ## 👤 Author  
 **Artjom Japins**  
 [GitHub](https://github.com/yourusername) • [LinkedIn](https://linkedin.com/in/your-link)  
 
----
+
 
 
 ⭐ If you like this portfolio, consider giving it a **star**!
