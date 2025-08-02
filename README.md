@@ -3,7 +3,7 @@
 A simple and stylish **portfolio** 💼 to showcase my work, skills, and resume.  
 Built with **HTML**, **CSS**, and **JavaScript** ✨  
 
-<img width="1242" height="970" alt="image" src="https://github.com/user-attachments/assets/cd6d0038-7e5f-4c78-83aa-f73e1373ca94" />
+<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/cd6d0038-7e5f-4c78-83aa-f73e1373ca94" />
 
 
 ---
